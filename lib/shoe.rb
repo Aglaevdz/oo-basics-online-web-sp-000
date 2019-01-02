@@ -10,8 +10,4 @@ class Shoe
     puts "Your shoe is as good as new!"
     condition = "old"
   end
-    cobble
-  end
-end
-
 end
