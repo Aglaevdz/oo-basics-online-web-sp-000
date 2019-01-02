@@ -10,8 +10,8 @@ class Shoe
     puts "Your shoe is as good as new!"
     end
 
-  def cobble
-    self.condition = "new"
-    end
+  #def cobble
+  #  self.condition = "new"
+  #  end
 
 end
